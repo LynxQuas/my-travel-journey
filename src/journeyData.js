@@ -22,7 +22,7 @@ const data = [{
 },
 {
     title: "Sydney Opera House",
-    id: 1,
+    id: 3,
     location: "AUSTRALIA",
     googleMapUrl: "https://www.google.com/maps/search/?api=1&query=Sydney%20Opera%20House&query_place_id=ChIJ3S-JXmauEmsRUcIaWtf4MzE",
     img: "https://source.unsplash.com/JmuyB_LibRo",
@@ -33,7 +33,7 @@ const data = [{
 },
 {
     title: "Geirangerfjord",
-    id: 1,
+    id: 4,
     location: "NORWAY",
     googleMapUrl: "https://www.google.com/maps/search/?api=1&query=Sydney%20Opera%20House&query_place_id=ChIJ3S-JXmauEmsRUcIaWtf4MzE",
     img: "https://source.unsplash.com/3PeSjpLVtLg",

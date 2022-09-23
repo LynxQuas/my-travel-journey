@@ -5,6 +5,7 @@ import data from "../journeyData"
 const Container = () => {
     const dataElement = data.map(item => {
         return <Card
+            key={item.id}
             {...item} />
     })
 

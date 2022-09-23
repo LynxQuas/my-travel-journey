@@ -7,26 +7,25 @@
 
 
 .nav-bar {
-    width: 550px;
+    width: 100%;
     height: 55px;
     background: #F55A5A;
     padding: 30px;
     position: relative;
+    border-radius: 15px 15px 0 0;
+
 }
 
 .nav-bar__text {
     position: absolute;
-    width: 109px;
-    height: 16px;
-    left: 244px;
-    top: 20px;
-
     font-family: 'Inter';
-    font-style: normal;
+    font-style: 20px;
     font-weight: 500;
-    font-size: 14.4608px;
+    font-size: 30.4608px;
     line-height: 18px;
     letter-spacing: -0.075em;
-
     color: #FFFF;
+    margin-left: 50%;
+    transform: translateX(-70%);
+    top: 24px;
 }
